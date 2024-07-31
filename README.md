@@ -1,3 +1,3 @@
 # freecell
 
-Read [The Jorney](https://github.com/shirha/Journey)
+Read [The Journey](https://github.com/shirha/Journey)
