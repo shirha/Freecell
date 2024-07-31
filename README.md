@@ -1,3 +1,3 @@
 # freecell
 
-checkout [the Jorney](https://github.com/shirha/Journey)
+checkout [The Jorney](https://github.com/shirha/Journey)
